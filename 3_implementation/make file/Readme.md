@@ -1,8 +1,8 @@
-#Targetname : Dependent target names
-#<TAB>command
+## Targetname : Dependent target names
+## <TAB>command
 
-Build:
-	gcc main.c
+  Build:
+	  gcc main.c
 
-Run:
-	./a.exe
+  Run:
+	 ./a.exe
